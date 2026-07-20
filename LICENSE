@@ -1,48 +1,34 @@
 # Contributing to Flutter Apps
 
-Thank you for your interest in contributing to Flutter Apps!
+Contributions are welcome! Please follow these guidelines.
 
 ## How to Contribute
 
 ### Adding New Apps
-1. Create new app directory with clear name
-2. Follow Flutter best practices
-3. Use proper project structure
-4. Include comprehensive README
-5. Add proper documentation
-6. Test on both iOS and Android
-7. Submit PR with details
+1. Create new app directory
+2. Use Flutter best practices
+3. Include comprehensive README
+4. Add proper documentation
+5. Test on iOS and Android
 
 ### Improving Existing Apps
-- UI/UX enhancements
-- Performance optimizations
-- Bug fixes
-- Documentation improvements
+1. UI/UX enhancements
+2. Performance optimizations
+3. Bug fixes
+4. Documentation improvements
 
-## Development Setup
+### Pull Requests
+1. Fork repository
+2. Create feature branch
+3. Test thoroughly
+4. Submit PR with details
 
-```bash
-git clone https://github.com/sharonaaas27-dev/Flutter-Apps.git
-cd Flutter-Apps
-flutter pub get
-flutter run
-```
-
-## Coding Standards
+## Standards
 
 - Follow Dart style guide
 - Use const constructors
 - Write meaningful comments
 - Responsive design
-- Cross-platform testing (iOS + Android)
-- Proper error handling
-- Performance optimization
+- Cross-platform testing
 
-## Testing
-
-```bash
-flutter test
-flutter analyze
-```
-
-Thank you for contributing! 🚀
+Thank you! 🚀

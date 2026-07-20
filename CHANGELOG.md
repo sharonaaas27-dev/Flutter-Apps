@@ -4,17 +4,14 @@
 
 ### Added
 - MyBlog application
-- Post management system
+- Post management
 - Rich text support
 - Image integration
 - Dark/Light theme
-- Search functionality
 - Professional documentation
-- Comprehensive README
 
 ## [0.1.0] - 2024-06-06
 
 ### Initial Release
 - Project setup
 - Basic structure
-- Core dependencies
